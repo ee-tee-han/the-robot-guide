@@ -5,7 +5,7 @@ clear;clc;% Task 3 Subtask 2 - Speculative Programming with Gemini AI
 
 clc;
 
-API_KEY    = 'AIzaSyCVDGsn9Rz3FAxtEqRm3pJJFHabL1Mr8xY';
+API_KEY    = '';
 MODEL      = 'gemini-2.5-flash-lite';
 TIME_SCALE = 0.3;
 
